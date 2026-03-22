@@ -1,12 +1,18 @@
-<img align="right" src="https://raw.githubusercontent.com/AADIT213/AADIT213/main/avatar.png" width="200" alt="Aadit's Avatar"/>
+<table border="0">
+<tr>
+<td valign="top" width="75%">
 
 # Hey there, I'm Aadit Shah 👋
-
-Undergrad in Artificial Intelligence & Machine Learning @ Nirma University.  
-I live at the intersection of ML research and real-world engineering —  
+Undergrad in Artificial Intelligence & Machine Learning @ Nirma University.
+I live at the intersection of ML research and real-world engineering —
 turning data into decisions and ideas into deployable products.
 
-<br clear="right"/>
+</td>
+<td valign="top" width="25%">
+<img src="https://raw.githubusercontent.com/AADIT213/AADIT213/main/profile_pic_github.png" width="180" alt="Aadit's Avatar"/>
+</td>
+</tr>
+</table>
 
 ---
 
