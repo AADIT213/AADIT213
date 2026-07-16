@@ -53,10 +53,3 @@ turning data into decisions and ideas into deployable products.
   <img src="https://github-readme-stats.vercel.app/api?username=AADIT213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AADIT213&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AADIT213&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AADIT213&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
