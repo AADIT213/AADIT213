@@ -46,9 +46,3 @@ turning data into decisions and ideas into deployable products.
 ![Oracle](https://img.shields.io/badge/-OracleSQL-F80000?logo=oracle&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AADIT213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-</p>
