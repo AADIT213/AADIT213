@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-I'm **Ashu**, an Artificial Intelligence & Machine Learning undergraduate at **Nirma University**, interested in building practical systems at the intersection of **AI, data and software**.
+I'm **Aadit Shah**, an Artificial Intelligence & Machine Learning undergraduate at **Nirma University**, interested in building practical systems at the intersection of **AI, data and software**.
 
 I enjoy understanding more than just the final output — from how data is processed and models behave to how an idea can be turned into a working system.
 
@@ -98,7 +98,7 @@ Machine learning pipeline for detecting fraudulent invoices through preprocessin
 
 `Python` `Scikit-learn` `Logistic Regression` `Random Forest` `XGBoost`
 
-[View Repository →](https://github.com/AADIT213)
+[View Repository →]((https://github.com/AADIT213/Invyra))
 
 ---
 
@@ -122,7 +122,7 @@ A deep learning project focused on detecting and classifying brain tumors from M
 
 `Python` `CNN` `Deep Learning` `Computer Vision`
 
-[View Repository →](https://github.com/AADIT213)
+[View Repository →](https://github.com/AADIT213/Brain-Tumor-MRI-Detection)
 
 ---
 
@@ -228,6 +228,6 @@ I enjoy singing and listening to music — a good way to step away from the scre
 
 ### Building. Learning. Experimenting. 🚀
 
-**— Ashu**
+**— Aadit Shah**
 
 </div>
