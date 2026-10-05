@@ -26,7 +26,7 @@
 <td width="32%" align="center" valign="middle">
 
 <!-- Replace with your image URL (e.g. upload the photo to this repo and use its raw link) -->
-<img src="YOUR_EXISTING_IMAGE_URL_HERE" width="230" alt="Ashu" />
+<img src="image.png" width="230" alt="Aadit Shah" />
 
 </td>
 
