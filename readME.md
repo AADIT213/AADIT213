@@ -146,19 +146,64 @@ Web Development
 
 **ML • Classification • Evaluation**
 
-A machine learning pipeline for detecting fraudulent invoices through preprocessing, feature engineering and model comparison.
+Machine learning pipeline for detecting fraudulent invoices through preprocessing, feature engineering and model comparison.
 
 `Python` `Scikit-learn` `XGBoost`
 
 <br>
 
 <a href="https://github.com/AADIT213/Invyra">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
+<b>View Project →</b>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
+
+## 🎓 AI Academic Course Planner
+
+**AI • Personalization • Recommendation**
+
+An AI-driven academic planning system for creating personalized course paths based on student interests and academic goals.
+
+`Python` `AI/ML` `Recommendation`
+
+<br>
+
+<a href="https://github.com/AADIT213/AI-Personalized-Academic-Course-Planner">
+<b>View Project →</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 Brain Tumor Detection
+
+**Deep Learning • Computer Vision**
+
+A deep learning project for detecting and classifying brain tumors from MRI images.
+
+`Python` `CNN` `Computer Vision`
+
+<br>
+
+<a href="https://github.com/AADIT213/Brain-Tumor-MRI-Detection">
+<b>View Project →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+</table>
 
 ## 🎓 AI Academic Course Planner
 
@@ -219,29 +264,59 @@ More experiments, academic systems and technical projects are available across m
 
 # 🧩 More Projects
 
-| Project | Area | Stack |
-|:---|:---|:---|
-| 🌡️ **Digital Temperature Regulation** | Digital Systems | Verilog • Logisim |
-| 📦 **Stock Inventory Management** | Software Development | C++ |
-| 🧑‍💻 **NU Mate** | Web Application | React • Firebase |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🌡️ Digital Temperature Regulation
+
+Digital hardware system designed and simulated using Verilog and Logisim.
+
+`Verilog` `Logisim`
 
 <br>
 
-<div align="center">
+<a href="https://github.com/AADIT213/Digital-Temperature-Regulation-and-Room-Climate-Controller">
+<b>View →</b>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📦 Stock Inventory Management
+
+A C++ based inventory management system focused on practical software design.
+
+`C++` `OOP`
+
+<br>
 
 <a href="https://github.com/AADIT213/Stock-Inventory-Management">
-<img src="https://img.shields.io/badge/Stock%20Inventory-Repository-238636?style=flat-square&logo=github">
+<b>View →</b>
 </a>
 
-&nbsp;
+</td>
 
-<a href="https://github.com/AADIT213?tab=repositories">
-<img src="https://img.shields.io/badge/More%20Repositories-Explore-58A6FF?style=flat-square&logo=github">
+<td width="33%" valign="top">
+
+### 🧑‍💻 NU Mate
+
+A web-based academic management portal built around a practical university workflow.
+
+`React` `Firebase`
+
+<br>
+
+<a href="https://github.com/AADIT213">
+<b>View →</b>
 </a>
 
-</div>
+</td>
 
----
+</tr>
+</table>
 
 # 🛠️ Technical Stack
 
@@ -340,16 +415,7 @@ height="165"
 src="https://streak-stats.demolab.com?user=AADIT213&hide_border=true&theme=tokyonight"
 />
 
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AADIT213&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-/>
-
 </div>
-
----
 
 <div align="center">
 
