@@ -4,9 +4,21 @@
 
 ### AI/ML Undergraduate • Builder • Problem Solver
 
-**Exploring Artificial Intelligence, Machine Learning, Data Systems & Software Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+AI%2C+Machine+Learning+%26+Data+Systems;Building+practical+AI-powered+applications;Learning%2C+building%2C+experimenting+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-AADIT213-181717?style=for-the-badge&logo=github)](https://github.com/AADIT213)
+<br>
+
+<a href="https://www.linkedin.com/in/shah-aadit213/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:aaditshah213@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/A_Shah_21008/">
+<img src="https://img.shields.io/badge/LeetCode-A__Shah__21008-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
 
 </div>
 
@@ -16,128 +28,113 @@
 
 I'm **Ashu**, an Artificial Intelligence & Machine Learning undergraduate at **Nirma University**, interested in building practical systems at the intersection of **AI, data and software**.
 
-I enjoy going beyond just implementing algorithms — understanding how the data flows, how systems scale, how models behave, and how an idea can eventually become something usable.
+I enjoy understanding more than just the final output — from how data is processed and models behave to how an idea can be turned into a working system.
 
-My work currently spans:
+### A few things I enjoy working with:
 
 - 🤖 Machine Learning & Deep Learning
 - 📊 Data Analytics & Big Data
-- ⚙️ Software & Systems Development
 - 🧠 Computer Vision & Intelligent Applications
+- ⚙️ Software & Systems Development
+- 💻 Problem Solving, DSA & Core Computer Science
 - 🌐 Web & Application Development
-- 🔧 Problem Solving, DSA & Core Computer Science
-
-I'm particularly interested in projects where **data, intelligence and engineering come together**.
 
 ---
 
 ## 🚀 What I'm Building & Learning
 
-```text
-AI / ML
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-└── Model Evaluation & Experimentation
+<div align="center">
 
-Data & Systems
-├── Apache Spark
-├── PySpark
-├── Hadoop / HDFS
-├── SQL & Databases
-└── Data Analytics
+<table>
+<tr>
+<td align="center" width="33%">
 
-Software
-├── Python
-├── C / C++
-├── JavaScript
-├── Web Development
-└── Application Development
-```
+### 🤖 AI / ML
 
-Currently exploring deeper into **Deep Learning, scalable data processing, AI systems and practical ML applications**.
+Machine Learning  
+Deep Learning  
+Computer Vision  
+Model Evaluation
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 Data & Systems
+
+Apache Spark  
+PySpark  
+Hadoop / HDFS  
+SQL & Databases
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Software
+
+Python  
+C / C++  
+JavaScript  
+Web Development
+
+</td>
+</tr>
+</table>
+
+</div>
+
+I'm currently focused on turning coursework and experiments into **larger, better-engineered AI and data-driven projects**.
 
 ---
 
 # ⭐ Featured Projects
 
-## 🏙️ Large-Scale Chicago Crime Analytics & Prediction
+### 💳 Invoice Fraud Detection
 
-> **Apache Spark • PySpark • Spark ML • Hadoop • HDFS • Machine Learning**
+**Machine Learning • Classification • Model Evaluation**
 
-A large-scale data analytics and crime prediction project built around the **Chicago Crime dataset**, focusing on distributed data processing, analytics and machine learning.
+Machine learning pipeline for detecting fraudulent invoices through preprocessing, feature engineering, model comparison and cross-validation.
 
-- Processed **8M+ cleaned crime records**
-- Built large-scale preprocessing pipelines using **PySpark**
-- Worked with **HDFS + Apache Spark**
-- Implemented distributed analytics and ML workflows
-- Explored multiclass crime prediction using Spark ML
-- Includes data analysis, visualization and predictive modelling
+`Python` `Scikit-learn` `Logistic Regression` `Random Forest` `XGBoost`
 
-**Focus:** Big Data • Distributed Computing • Machine Learning
+[View Repository →](https://github.com/AADIT213)
 
 ---
 
-## 🧠 Brain Tumor Detection
+### 🎓 AI Personalized Academic Course Planner
 
-> **Python • Deep Learning • CNN • Computer Vision • Medical Imaging**
+**Artificial Intelligence • Personalization • Recommendation**
 
-An image-based machine learning / deep learning project focused on detecting and classifying brain tumors from MRI images.
+An AI-driven academic planning system designed to help students build more personalized course paths based on their interests, academic context and learning goals.
 
-The project explores the complete ML workflow:
+`Python` `AI/ML` `Recommendation` `Data`
 
-`Data → Preprocessing → Model → Training → Evaluation → Prediction`
-
-**Focus:** Deep Learning • Computer Vision • Image Classification
+[View Repository →](https://github.com/AADIT213/AI-Personalized-Academic-Course-Planner)
 
 ---
 
-## 🌡️ Digital Temperature Regulation & Room Climate Controller
+### 🧠 Brain Tumor Detection
 
-> **Verilog • Logisim • Digital Electronics • Digital Logic**
+**Deep Learning • Computer Vision • Medical Imaging**
 
-A digital hardware system designed to regulate room temperature by comparing the **body temperature, room temperature and optimum temperature** and activating appropriate heating/cooling responses.
+A deep learning project focused on detecting and classifying brain tumors from MRI images.
 
-- Designed using **comparators, multiplexers, adders/subtractors and displays**
-- Implemented and simulated the architecture in **Logisim**
-- Developed corresponding **Verilog modules**
-- Verified functionality through simulation
+`Python` `CNN` `Deep Learning` `Computer Vision`
 
-**Focus:** Digital Systems • Hardware Logic • Verilog
-
-[![View Project](https://img.shields.io/badge/View%20Project-Repository-181717?style=flat-square&logo=github)](https://github.com/AADIT213/Digital-Temperature-Regulation-and-Room-Climate-Controller)
+[View Repository →](https://github.com/AADIT213)
 
 ---
 
-## 💳 Invoice Fraud Detection
+# 🧩 More Projects
 
-> **Python • Scikit-learn • Logistic Regression • Random Forest • XGBoost**
+| Project | Area | Stack |
+|:---|:---|:---|
+| 🌡️ **Digital Temperature Regulation** | Digital Systems | Verilog • Logisim |
+| 📦 **Stock Inventory Management** | Software Development | C++ |
+| 🧑‍💻 **NU Mate** | Web Application | React • Firebase |
 
-A machine learning project exploring automated invoice fraud detection through preprocessing, feature engineering, model comparison and cross-validation.
-
-Models explored include:
-
-- Logistic Regression
-- Random Forest
-- XGBoost
-
-The project also examines model generalization through **external testing**, rather than relying only on training or cross-validation performance.
-
-**Focus:** Machine Learning • Classification • Model Evaluation
-
----
-
-## 🧩 More Projects
-
-| Project | Area | Technologies |
-|---|---|---|
-| **Travel Itinerary Planner** | OOP / Software | C++ |
-| **Student & Subject Database System** | DBMS | MySQL / SQL |
-| **SQLite CRUD Application** | Application Development | Python / SQLite |
-| **NU Mate** | Web Application | React / Firebase |
-| **ML & DL Experiments** | AI / Data Science | Python / Scikit-learn / PyTorch |
-
-> More projects and experiments are continuously being added to my repositories.
+[Explore all repositories →](https://github.com/AADIT213?tab=repositories)
 
 ---
 
@@ -152,14 +149,10 @@ The project also examines model generalization through **external testing**, rat
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-**Machine Learning:** Classification • Regression • Clustering • Model Evaluation • Cross-Validation
-
-**Deep Learning:** CNNs • Computer Vision • Neural Networks • Model Training & Evaluation
-
----
+`Machine Learning` · `Deep Learning` · `CNNs` · `Computer Vision` · `Classification` · `Clustering`
 
 ### Data & Databases
 
@@ -167,63 +160,51 @@ The project also examines model generalization through **external testing**, rat
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-**Data:** Pandas • NumPy • Matplotlib • SQL
-
-**Big Data:** Apache Spark • PySpark • Hadoop • HDFS
-
----
+`Pandas` · `NumPy` · `Matplotlib` · `SQL` · `Apache Spark` · `PySpark` · `Hadoop` · `HDFS`
 
 ### Development & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,react" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,react,jupyter" />
 </p>
-
-Git • GitHub • VS Code • Jupyter • Firebase • React
-
----
-
-# 🏆 Hackathons, Competitions & Challenges
-
-My learning has also extended beyond coursework through competitive and collaborative technical events.
-
-| Event | Experience |
-|---|---|
-| 🧑‍💻 **Hackamined — Nirma University** | Built and explored a real-world technical solution under a time constraint |
-| 🇮🇳 **Smart India Hackathon (SIH)** | Participated in a national-level problem-solving environment |
-| 🟣 **Odoo Hackathon** | Worked on an application-oriented problem with a focus on practical implementation |
-| 🟠 **Amazon ML Challenge** | Explored a machine-learning problem involving data processing, matching and prediction |
-
-These experiences have helped me become more comfortable with **rapid prototyping, teamwork, debugging and building under constraints**.
 
 ---
 
 # 🎓 Education
 
 ### Nirma University
+
 **B.Tech — Artificial Intelligence & Machine Learning**
 
 📍 Ahmedabad, Gujarat, India
 
-**Current:** Semester 5
-
-Academic interests include:
+**Currently:** Semester 5
 
 `Machine Learning` · `Deep Learning` · `Big Data` · `DBMS` · `Operating Systems` · `DAA` · `Computer Architecture`
 
-> **CGPA: 9.42 / 10**
+**CGPA:** 9.42 / 10
 
 ---
 
-# 🧠 Beyond Code
+# 🎵 Beyond Code
 
-Technology isn't the only thing I enjoy.
+When I'm not building or debugging something, you'll probably find me around **music**.
 
-🎵 **Singing & Music**
+### Singing • Music • Creativity
 
-Music has always been one of my favourite ways to step away from screens, recharge and stay creative.
+I enjoy singing and listening to music — a good way to step away from the screen, recharge and stay creative.
 
-I believe that being a good engineer isn't only about writing better code — it's also about staying **curious, creative and willing to learn**.
+---
+
+<div align="center">
+
+<!-- KEEP YOUR EXISTING IMAGE HERE -->
+
+<br>
+
+<img src="YOUR_EXISTING_IMAGE_URL_HERE" width="700">
+
+</div>
 
 ---
 
@@ -231,51 +212,21 @@ I believe that being a good engineer isn't only about writing better code — it
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AADIT213&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AADIT213&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AADIT213&layout=compact&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AADIT213&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="165"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AADIT213&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AADIT213&hide_border=true&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🌱 Currently Exploring
-
-```text
-Deep Learning
-      ↓
-Computer Vision
-      ↓
-Large-Scale Data Processing
-      ↓
-AI / ML Systems
-      ↓
-Building Practical Intelligent Applications
-```
-
-I'm currently focused on turning coursework and experiments into **larger, better-engineered projects**.
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in discussing:
-
-- 🤖 AI / ML & Deep Learning
-- 📊 Data & Big Data
-- 💻 Software Engineering
-- 🚀 Projects & Hackathons
-- 💡 Interesting technical ideas
-
 <div align="center">
 
-### Thanks for stopping by! 👋
+### Building. Learning. Experimenting. 🚀
 
 **— Ashu**
 
