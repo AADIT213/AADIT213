@@ -1,4 +1,4 @@
-<!-- ========================================================= -->
+ <!-- ========================================================= -->
 <!--                         HERO                              -->
 <!-- ========================================================= -->
 
@@ -20,6 +20,7 @@ alt="Ashu animated header"
 
 <table>
 <tr>
+
 <td width="67%" valign="middle">
 
 # Hey, I'm Ashu 👋
@@ -49,7 +50,9 @@ alt="Typing animation"
 
 <td width="33%" align="center">
 
-<!-- KEEP YOUR CURRENT IMAGE URL HERE -->
+<!-- ========================================================= -->
+<!-- Replace the URL below with your existing personal image  -->
+<!-- ========================================================= -->
 
 <img
 src="YOUR_EXISTING_IMAGE_URL_HERE"
@@ -58,6 +61,7 @@ alt="Ashu"
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -65,7 +69,7 @@ alt="Ashu"
 
 # 👋 About Me
 
-I'm **Ashu**, an Artificial Intelligence & Machine Learning undergraduate at **Nirma University**, interested in building practical systems at the intersection of **AI, data and software**.
+I'm **Aadit Shah**, an Artificial Intelligence & Machine Learning undergraduate at **Nirma University**, interested in building practical systems at the intersection of **AI, data and software**.
 
 I enjoy understanding more than just the final output — from how data is processed and models behave to how an idea can be turned into a working system.
 
@@ -125,7 +129,7 @@ Web Development
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,c,js,react,mysql,sqlite,spark,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,c,js,react,mysql,sqlite,git,github,vscode" />
 
 </div>
 
@@ -146,7 +150,7 @@ Web Development
 
 **ML • Classification • Evaluation**
 
-Machine learning pipeline for detecting fraudulent invoices through preprocessing, feature engineering and model comparison.
+A machine learning pipeline for detecting fraudulent invoices through preprocessing, feature engineering and model comparison.
 
 `Python` `Scikit-learn` `XGBoost`
 
@@ -205,61 +209,6 @@ A deep learning project for detecting and classifying brain tumors from MRI imag
 </tr>
 </table>
 
-## 🎓 AI Academic Course Planner
-
-**AI • Personalization • Recommendation**
-
-An AI-driven academic planning system designed to create personalized course paths based on student interests and academic goals.
-
-`Python` `AI/ML` `Recommendation`
-
-<br>
-
-<a href="https://github.com/AADIT213/AI-Personalized-Academic-Course-Planner">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Brain Tumor Detection
-
-**Deep Learning • Computer Vision**
-
-A deep learning project for detecting and classifying brain tumors from MRI images.
-
-`Python` `CNN` `Computer Vision`
-
-<br>
-
-<a href="https://github.com/AADIT213/Brain-Tumor-MRI-Detection">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧩 More in the Repositories
-
-More experiments, academic systems and technical projects are available across my repositories.
-
-<br>
-
-<a href="https://github.com/AADIT213?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-238636?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 🧩 More Projects
@@ -309,7 +258,7 @@ A web-based academic management portal built around a practical university workf
 
 <br>
 
-<a href="https://github.com/AADIT213">
+<a href="https://github.com/AADIT213/NU-Mate">
 <b>View →</b>
 </a>
 
@@ -317,6 +266,8 @@ A web-based academic management portal built around a practical university workf
 
 </tr>
 </table>
+
+---
 
 # 🛠️ Technical Stack
 
@@ -417,14 +368,21 @@ src="https://streak-stats.demolab.com?user=AADIT213&hide_border=true&theme=tokyo
 
 </div>
 
+---
+
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:14532D,75:238636,100:0D1117&height=120&section=footer&animation=twinkling"
+width="100%"
 />
 
 ### Building. Learning. Experimenting. 🚀
 
-**— Ashu**
+**— Aadit Shah**
 
 </div>
