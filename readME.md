@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0B3D2E,70:14532D,100:0D1117&height=230&section=header&text=ASHU&fontSize=80&fontColor=58A6FF&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20UNDERGRADUATE%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=16&descColor=3FB950&descAlignY=58" width="100%" alt="Ashu header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0B3D2E,70:14532D,100:0D1117&height=230&section=header&text=AADIT&fontSize=80&fontColor=58A6FF&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20UNDERGRADUATE%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=16&descColor=3FB950&descAlignY=58" width="100%" alt="Ashu header" />
 
 </div>
 
